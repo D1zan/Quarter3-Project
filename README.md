@@ -4,4 +4,3 @@ My quartely project uses:
 -Loops; Ask the user for the city name smd state until they press quit
 -Input Validation; Ensure the user only inputs a true existing city and state 
 
-In this program, 
